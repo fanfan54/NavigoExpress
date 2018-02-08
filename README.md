@@ -10,7 +10,7 @@ This code is provided AS-IS, and without any license. I won't modify it.
 Unfortunately, I lose the REAL source files. This repo contains only the binaries.
 
 ![Screenshot: Home of the app](../master/screenshot_newtab_express.png "Home of the app")
-![Screenshot: Browsing experience](../master/screenshot_newtab_express.png "Browsing experience")
+![Screenshot: Browsing experience](../master/screenshot_webbrowsing_express.png "Browsing experience")
 ![Screenshot: Work in progress for multi-tab](../master/screenshot_tab2_express.png "Work in progress for multi-tab")
 
 Also available in C++, compiled for Linux amd64 (binaries and source code are coming soon).
